@@ -26,12 +26,23 @@ June 2022: Initial release<br>
 - How to build the T-COMPUTER video published! 
 
 # BOM
+
+Computer systems supported and status on various MCU platforms<br>
+
+| System | Teensy3.6 | Teensy 4.0 | Teensy4.0 +PSRAM | Teensy4.1 +PSRAM | ESP32 | ESP32-Wrover | Pico |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Zx81        | X | X | X | X | X | X | X |
+| Zx spectrum | X | X | X | X | X | X | X |
+| Atari 800   | X | X | X | X | X | X | X |
+| C64         | X | X | X | X | X | X | X |
+| VIC20       |   |   |   | X |   |   | X |
+| Apple2      |   |   |   | X |   |   |   |
+| Atari 520ST | - | full speed! | X | X (640x400!) | - | slow | - |
+| 8086 XT PC  | - | full speed! | X | X | - | slow | - |
+| MSX1/2      | - | full speed! | X | X | - | - | - |
+| Amiga       | - | - | exp only! | X (640x240!) | - | - | - |
+| Doom        | - | - | - | x | - | - | - |
+
 <p align="center">
   <img width="640" height="480" src="/images/diybom.jpg">
 </p>
-<br>
-| System | Teensy3.6 | Teensy 4.0 | 
-| --- | --- | --- |
-| Zx81        | X | X |
-| Zx spectrum | X | X |
-| Doom        | - | - |

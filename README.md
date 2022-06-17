@@ -28,7 +28,11 @@ June 2022: Initial release<br>
 # BOM
 
 All the components needed are listed below<br>
-SMD resistors and ceramic capa are type 805<br>
+SMD resistors and ceramic capacitors are of type 805<br>
+
+<p align="center">
+  <img width="640" height="480" src="/images/diybom.jpg">
+</p>
 
 | category | item | amount | link |
 | --- | --- | --- | --- |
@@ -53,6 +57,4 @@ SMD resistors and ceramic capa are type 805<br>
 | Battery| lipo 1000mAh | 1 | --- |
 
 
-<p align="center">
-  <img width="640" height="480" src="/images/diybom.jpg">
-</p>
+

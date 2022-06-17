@@ -25,3 +25,7 @@ June 2022: Initial release<br>
 - Repository created with schematics, Gerber files and binaries
 - How to build the T-COMPUTER video published! 
 
+# BOM
+<p align="center">
+  <img width="320" height="240" src="/images/diybom.jpg">
+</p>

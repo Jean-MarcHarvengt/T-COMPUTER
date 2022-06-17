@@ -30,27 +30,27 @@ June 2022: Initial release<br>
 All the components needed are listed below<br>
 SMD resistors and ceramic capa are type 805<br>
 
-| Component | item | amount |
-| --- | --- | --- |
-| resistors| 1KOhms | 2 |
-| | 2.2KOhms | 2 |
-| | 470Ohms | 2 |
-| | 390Ohms | 1 |
-| | 820Ohms | 1 |
-| | 82Ohms | 2 |
-| | 330Ohms | 1 |
-| | 10Ohms | 1 |
-| capa elec| 4.7uF | 2 |
-| capa cera | 100nF | 1 |
-| IC| PT8211 | 1 |
-| Switches| classic | 42 |
-| Switches| high | 2 |
-| TFT| ST7789 | 1 |
-| VGA| DB15 | 1 |
-| JOYSTICK| DB9 | 1 |
-| USB| ? | 1 |
-| AUDIO| Jack | 1 |
-| Battery| lipo 1000mAh | 1 |
+| Category | item | amount | link |
+| --- | --- | --- | --- |
+| resistors| 1KOhms | 2 | --- |
+| | 2.2KOhms | 2 | --- |
+| | 470Ohms | 2 | --- |
+| | 390Ohms | 1 | --- |
+| | 820Ohms | 1 | --- |
+| | 82Ohms | 2 | --- |
+| | 330Ohms | 1 | --- |
+| | 10Ohms | 1 | --- |
+| capa elec| 4.7uF | 2 | --- |
+| capa cera | 100nF | 1 | --- |
+| IC| PT8211 | 1 | --- |
+| Switches| classic | 42 | --- |
+| Switches| high | 2 | --- |
+| TFT| ST7789 | 1 | --- |
+| VGA| DB15 | 1 | --- |
+| JOYSTICK| DB9 | 1 | --- |
+| USB| ? | 1 | --- |
+| AUDIO| Jack | 1 | --- |
+| Battery| lipo 1000mAh | 1 | --- |
 
 
 <p align="center">

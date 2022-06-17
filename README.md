@@ -5,13 +5,13 @@ The T-COMPUTER is a new micro computer platform supported and powered by the MCU
   - a 42 keys basic keyboard (including D-PAD controls + 3 buttons)
   - a built-in 320x240 TFT display
   - VGA output 
-  - 16 bits stereo DAC sound output
-  - USB host input(for keyboard, mouse, midi devices...)
+  - 16 bits stereo DAC output
+  - USB host input (for keyboard, mouse, midi devices...)
   - a DB9 digital joystick input (Atari 2600 style joystick)
   - 2 general purpose buttons    
   - 8+6 shared I/O pins for GP usage
-  - a DS card slot (from the Teensy 4.1)
-- it can be powered over micro USB or can be used as a takeaway display powered by a 1000mA/H lipo.   
+  - a SD card slot (from the Teensy 4.1)
+- it can be powered over micro USB or can be used as a takeaway system powered by a 1000mA/H lipo.   
 - the T-COMPUTER is a DIY project, you can build it yourself and contribute to it!
 
 https://youtu.be/jb_A_36Tv24 <br>

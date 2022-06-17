@@ -43,11 +43,14 @@ SMD 805<br>
 | capacitors| 4.7uF | 2 |
 | | 100nF | 1 |
 | IC| PT8211 | 1 |
+| Switches| classic | 42 |
+| Switches| high | 2 |
 | TFT| ST7789 | 1 |
 | VGA| DB15 | 1 |
 | JOYSTICK| DB9 | 1 |
 | USB| ? | 1 |
 | AUDIO| Jack | 1 |
+| Battery| lipo 1000mAh | 1 |
 
 
 <p align="center">

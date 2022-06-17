@@ -17,7 +17,6 @@ The T-COMPUTER is a new micro computer platform supported and powered by the MCU
 https://youtu.be/jb_A_36Tv24 <br>
 https://youtu.be/ADHyYO1vjXU <br>
 https://youtu.be/OZnFfMv9jf4 <br>
-<br>
 
 # News
 June 2022: Initial release<br>

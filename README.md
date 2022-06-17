@@ -30,7 +30,7 @@ June 2022: Initial release<br>
 All the components needed are listed below<br>
 SMD resistors and ceramic capa are type 805<br>
 
-| Category | item | amount | link |
+| category | item | amount | link |
 | --- | --- | --- | --- |
 | resistors| 1KOhms | 2 | --- |
 | | 2.2KOhms | 2 | --- |

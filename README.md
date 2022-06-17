@@ -33,7 +33,7 @@ SMD resistors and ceramic capacitors are of type 805.<br>
   <img width="640" height="480" src="/images/diybom.jpg">
 </p>
 
-| category | item | amount | link |
+| Category | Item | Amount | Link |
 | --- | --- | --- | --- |
 | resistors| 1KOhms | 2 | --- |
 | | 2.2KOhms | 2 | --- |
@@ -49,10 +49,10 @@ SMD resistors and ceramic capacitors are of type 805.<br>
 | Switches| classic | 42 | --- |
 | Switches| high | 2 | --- |
 | TFT| ST7789 | 1 | --- |
-| VGA| DB15 | 1 | --- |
-| JOYSTICK| DB9 | 1 | --- |
+| VGA| DB15 female | 1 | --- |
+| JOYSTICK| DB9 male | 1 | --- |
 | USB| ? | 1 | --- |
-| AUDIO| Jack | 1 | --- |
+| AUDIO| Jack female | 1 | --- |
 | Battery| lipo 1000mAh | 1 | --- |
 
 

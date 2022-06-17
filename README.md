@@ -29,6 +29,9 @@ June 2022: Initial release<br>
 <p align="center">
   <img width="640" height="480" src="/images/diybom.jpg">
 </p>
-| category |  item |  amount |
+br
+| System | Teensy3.6 | Teensy 4.0 | 
 | --- | --- | --- |
-| Resistors | X | x | 
+| Zx81        | X | X |
+| Zx spectrum | X | X |
+| Doom        | - | - |

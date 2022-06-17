@@ -14,9 +14,9 @@ The T-COMPUTER is a new micro computer platform supported and powered by the MCU
 - it can be powered over micro USB or can be used as a takeaway display powered by a 1000mA/H lipo.   
 - the T-COMPUTER is a DIY project, you can build it yourself and contribute to it!
 
-https://youtu.be/jb_A_36Tv24
-https://youtu.be/ADHyYO1vjXU
-https://youtu.be/OZnFfMv9jf4
+https://youtu.be/jb_A_36Tv24 <br>
+https://youtu.be/ADHyYO1vjXU <br>
+https://youtu.be/OZnFfMv9jf4 <br>
 <br>
 
 # News

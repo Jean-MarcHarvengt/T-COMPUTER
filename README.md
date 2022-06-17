@@ -28,7 +28,7 @@ June 2022: Initial release<br>
 # BOM
 
 All the components needed are listed below<br>
-SMD 805<br>
+SMD resistors and ceramic capa are type 805<br>
 
 | Component | item | amount |
 | --- | --- | --- |
@@ -40,8 +40,8 @@ SMD 805<br>
 | | 82Ohms | 2 |
 | | 330Ohms | 1 |
 | | 10Ohms | 1 |
-| capacitors| 4.7uF | 2 |
-| | 100nF | 1 |
+| capa elec| 4.7uF | 2 |
+| capa cera | 100nF | 1 |
 | IC| PT8211 | 1 |
 | Switches| classic | 42 |
 | Switches| high | 2 |

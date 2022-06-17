@@ -29,9 +29,9 @@ June 2022: Initial release<br>
 
 All the components needed are listed below<br>
 
-| Component | item | amount | Teensy4.0 +PSRAM | Teensy4.1 +PSRAM | ESP32 | ESP32-Wrover | Pico |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Zx81        | X | X | X | X | X | X | X |
+| Component | item | amount |
+| --- | --- | --- |
+| Zx81        | X | X |
 
 
 <p align="center">

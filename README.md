@@ -27,5 +27,5 @@ June 2022: Initial release<br>
 
 # BOM
 <p align="center">
-  <img width="320" height="240" src="/images/diybom.jpg">
+  <img width="640" height="480" src="/images/diybom.jpg">
 </p>

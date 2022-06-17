@@ -27,8 +27,8 @@ June 2022: Initial release<br>
 
 # BOM
 
-All the components needed are listed below<br>
-SMD resistors and ceramic capacitors are of type 805<br>
+All the components needed are listed below.<br>
+SMD resistors and ceramic capacitors are of type 805.<br>
 
 <p align="left">
   <img width="640" height="480" src="/images/diybom.jpg">

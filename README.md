@@ -31,7 +31,8 @@ All the components needed are listed below<br>
 
 | Component | item | amount |
 | --- | --- | --- |
-| Zx81        | X | X |
+| resistors| 1KOhms | 2 |
+| | 2.2KOhms | 2 |
 
 
 <p align="center">

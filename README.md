@@ -28,11 +28,19 @@ June 2022: Initial release<br>
 # BOM
 
 All the components needed are listed below<br>
+SMD 805<br>
 
 | Component | item | amount |
 | --- | --- | --- |
 | resistors| 1KOhms | 2 |
 | | 2.2KOhms | 2 |
+| | 470Ohms | 2 |
+| | 390Ohms | 1 |
+| | 820Ohms | 1 |
+| | 82Ohms | 2 |
+| |330Ohms | 1 |
+| capacitors| 4.7uF | 2 |
+| | 100nF | 1 |
 
 
 <p align="center">

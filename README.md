@@ -38,9 +38,16 @@ SMD 805<br>
 | | 390Ohms | 1 |
 | | 820Ohms | 1 |
 | | 82Ohms | 2 |
-| |330Ohms | 1 |
+| | 330Ohms | 1 |
+| | 10Ohms | 1 |
 | capacitors| 4.7uF | 2 |
 | | 100nF | 1 |
+| IC| PT8211 | 1 |
+| TFT| ST7789 | 1 |
+| VGA| DB15 | 1 |
+| JOYSTICK| DB9 | 1 |
+| USB| ? | 1 |
+| AUDIO| Jack | 1 |
 
 
 <p align="center">

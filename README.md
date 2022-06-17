@@ -29,7 +29,7 @@ June 2022: Initial release<br>
 <p align="center">
   <img width="640" height="480" src="/images/diybom.jpg">
 </p>
-br
+<br>
 | System | Teensy3.6 | Teensy 4.0 | 
 | --- | --- | --- |
 | Zx81        | X | X |

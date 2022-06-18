@@ -54,25 +54,45 @@ SMD resistors and ceramic capacitors are of type 805.<br>
 | USB| ? | 1 | --- |
 | AUDIO| Jack female | 1 | --- |
 | Battery| lipo 1000mAh | 1 | --- |
+| USB mini charger| pcb | 1 | --- |
+| power switch| 3 pins, mini | 1 | --- |
+| LED| green or yellow | 1 | --- |
 
 
 # Assembly
 Location and values for the components are printed on the PCB.<br>
 Respect the polarity for the electrolitic capacitors (the dot indicates the +) and the IC (the dot is pin 1).<br>
+Follow the step procedure below and test between the steps:
 - before starting anything, 
   -  solder the PSRAM chip on the teensy 4.1 board and test it
      - use the sketch provided by the project
-  - also solder the header pins of the teensy (classic male header pins), including the 5 usb header pins (I use female low profile personally)
+  - solder the header pins of the teensy (classic male header pins), including the 5 usb header pins (I use female low profile personally)
+  - program the teensy with one of the VGA emulator in /bin
 - step 1:
   - solder all smd resistors
   - solder the 4 switches of D-PAD at the right of the keyboard
   - solder the VGA connector
-  - solder the Teensy. 
+  - solder the Teensy 4.1 
+  - power the teensy => test DPAD and VGA output
 - step 2:
   - solder the PT8211 IC
   - solder all smd capacitors (respect polariry for the electrolytes)
   - solder all keys of the keyboard + the 2 user keys 
   - solder the audio connector
-- step 3 
-  - solder the PT8211
-
+  - power the teensy => test AUDIO and all keys
+- step 3: 
+  - solder the joystick DB9 connector
+  - solder the ST and ILI header pins (female pins)
+  - solder the joyext header pins (female pins)
+  - solder the USB connector + USB header pins on the PCB (2 females pins on top of each other)
+  - connect the Teensy USB header to the PCB USB header pins using wires
+  - power the teensy => test USB and joystick
+- step 4: 
+  - connect the TFT display
+  - program the teensy with one of the TFT emulator in /bin
+  - power the teensy => test the display
+- step 5 (optional):  
+  - solder the power switch
+  - solder the battery to the USB charger PCB
+  - glue the USB charger PCB at the back of the T-COMPUTER board and solder the power pins
+  - glue the battery at the back of the T-COMPUTER board

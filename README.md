@@ -56,4 +56,9 @@ SMD resistors and ceramic capacitors are of type 805.<br>
 | Battery| lipo 1000mAh | 1 | --- |
 
 
+# Assembly
+Location and values for the components are printed on the PCB.<br>
+Respect the polarity for the electrolitic capacitors (the dot indicates the +) and the IC (the dot is pin 1).<br>
+
+
 

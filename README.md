@@ -59,6 +59,20 @@ SMD resistors and ceramic capacitors are of type 805.<br>
 # Assembly
 Location and values for the components are printed on the PCB.<br>
 Respect the polarity for the electrolitic capacitors (the dot indicates the +) and the IC (the dot is pin 1).<br>
-
-
+- before starting anything, 
+  -  solder the PSRAM chip on the teensy 4.1 board and test it
+     - use the sketch provided by the project
+  - also solder the header pins of the teensy (classic male header pins), including the 5 usb header pins (I use female low profile personally)
+- step 1:
+  - solder all smd resistors
+  - solder the 4 switches of D-PAD at the right of the keyboard
+  - solder the VGA connector
+  - solder the Teensy. 
+- step 2:
+  - solder the PT8211 IC
+  - solder all smd capacitors (respect polariry for the electrolytes)
+  - solder all keys of the keyboard + the 2 user keys 
+  - solder the audio connector
+- step 3 
+  - solder the PT8211
 

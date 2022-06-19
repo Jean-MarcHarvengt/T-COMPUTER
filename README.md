@@ -32,9 +32,10 @@ SMD resistors and ceramic capacitors are of type 805.<br>
 <p align="left">
   <img width="480" height="320" src="/images/diybom.jpg">
 </p>
-<p align="right">
-<img src="/images/bottom" width="240" />  
+<p align="left">
+<img src="/images/bottom.png" width="240" />  
 <img src="/images/top.png" width="240" />  
+</p>
 <br>
 | | Category | Item | Amount | Link |
 | --- | --- | --- | --- | --- |

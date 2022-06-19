@@ -43,12 +43,12 @@ SMD resistors and ceramic capacitors are of type 805.<br>
 | 6 | | 82Ohms | 2 | --- |
 | 7 | | 330Ohms | 1 | --- |
 | 8 | | 10Ohms | 1 | --- |
-| 9 | capa elec| 4.7uF | 3 | --- |
-| 10| capa cera | 100nF | 1 | --- |
+| 9 | electolytic capa | 4.7uF | 3 | --- |
+| 10| ceramic capa | 100nF | 1 | --- |
 | 11| IC| Teensy4.1 | 1 | --- |
 | 12| IC| PT8211 | 1 | --- |
-| 13| Switches| classic | 42 | --- |
-| 14| Switches| high | 2 | --- |
+| 13| switches| classic | 42 | --- |
+| 14| switches| high | 2 | --- |
 | 15| TFT| ST7789 | 1 | --- |
 | 16| VGA| DB15 female | 1 | --- |
 | 17| JOYSTICK| DB9 male | 1 | --- |

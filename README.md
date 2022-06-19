@@ -33,30 +33,31 @@ SMD resistors and ceramic capacitors are of type 805.<br>
   <img width="640" height="480" src="/images/diybom.jpg">
 </p>
 
-| Category | Item | Amount | Link |
-| --- | --- | --- | --- |
-| resistors| 1KOhms | 2 | --- |
-| | 2.2KOhms | 2 | --- |
-| | 470Ohms | 2 | --- |
-| | 390Ohms | 1 | --- |
-| | 820Ohms | 1 | --- |
-| | 82Ohms | 2 | --- |
-| | 330Ohms | 1 | --- |
-| | 10Ohms | 1 | --- |
-| capa elec| 4.7uF | 2 | --- |
-| capa cera | 100nF | 1 | --- |
-| IC| PT8211 | 1 | --- |
-| Switches| classic | 42 | --- |
-| Switches| high | 2 | --- |
-| TFT| ST7789 | 1 | --- |
-| VGA| DB15 female | 1 | --- |
-| JOYSTICK| DB9 male | 1 | --- |
-| USB| ? | 1 | --- |
-| AUDIO| Jack female | 1 | --- |
-| Battery| lipo 1000mAh | 1 | --- |
-| USB mini charger| pcb | 1 | --- |
-| power switch| 3 pins, mini | 1 | --- |
-| LED| green or yellow | 1 | --- |
+| | Category | Item | Amount | Link |
+| --- | --- | --- | --- | --- |
+| 1 | resistors| 1KOhms | 2 | --- |
+| 2 | | 2.2KOhms | 2 | --- |
+| 3 | | 470Ohms | 2 | --- |
+| 4 | | 390Ohms | 1 | --- |
+| 5 | | 820Ohms | 1 | --- |
+| 6 | | 82Ohms | 2 | --- |
+| 7 | | 330Ohms | 1 | --- |
+| 8 | | 10Ohms | 1 | --- |
+| 9 | capa elec| 4.7uF | 3 | --- |
+| 10| capa cera | 100nF | 1 | --- |
+| 11| IC| Teensy4.1 | 1 | --- |
+| 12| IC| PT8211 | 1 | --- |
+| 13| Switches| classic | 42 | --- |
+| 14| Switches| high | 2 | --- |
+| 15| TFT| ST7789 | 1 | --- |
+| 16| VGA| DB15 female | 1 | --- |
+| 17| JOYSTICK| DB9 male | 1 | --- |
+| 18| USB| ? | 1 | --- |
+| 19| AUDIO| Jack female | 1 | --- |
+| 20| Battery| lipo 1000mAh | 1 | --- |
+| 21| USB mini charger| pcb | 1 | --- |
+| 22| power switch| 3 pins, mini | 1 | --- |
+| 23| LED| green or yellow | 1 | --- |
 
 
 # Assembly

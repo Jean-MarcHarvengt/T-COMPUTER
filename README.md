@@ -30,11 +30,11 @@ All the components needed are listed below.<br>
 SMD resistors and ceramic capacitors are of type 805.<br>
 
 <p align="left">
-  <img width="640" height="480" src="/images/diybom.jpg">
+  <img width="960" height="480" src="/images/diybom.jpg">
 </p>
 <p align="left">
-<img src="/images/bottom.png" width="320" />  
-<img src="/images/top.png" width="320" />  
+<img src="/images/bottom.png" width="480" />  
+<img src="/images/top.png" width="480" />  
 </p>
 
 <br>

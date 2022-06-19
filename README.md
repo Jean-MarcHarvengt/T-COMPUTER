@@ -58,6 +58,10 @@ SMD resistors and ceramic capacitors are of type 805.<br>
 | 21| USB mini charger| pcb | 1 | --- |
 | 22| power switch| 3 pins, mini | 1 | --- |
 | 23| LED| green or yellow | 1 | --- |
+| 24| ST7789 HEADER| 1x8 | 1 | --- |
+| 25| ILI9341 HEADER| 1x9 | 1 | --- |
+| 26| JOYEXT HEADER| 1x8 | 1 | --- |
+| 27| USB HEADER| 1x5 | 3 | --- |
 
 
 # Assembly

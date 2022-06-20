@@ -1,5 +1,5 @@
 # What is the T-COMPUTER?
-The T-COMPUTER is a new micro computer platform supported and powered by the MCUME project.
+The T-COMPUTER is a micro computer platform supported and powered by the MCUME project.
 - It is based on the powerful Teensy4.1 MCU (800+ MHz ARM based, 1MB internal + 8MB QSPI RAM)
 - It features: 
   - a 42 keys basic keyboard (including D-PAD controls + 3 buttons)
@@ -104,7 +104,8 @@ Follow the step procedure below and test between the steps:
   - power the teensy over micro usb and test
 - step 5 (optional):  
   - solder the power switch
-  - solder the battery to the USB charger PCB
-  - glue the USB charger PCB at the back of the T-COMPUTER board and solder the power pins
+  - solder the battery to the USB charger PCB kit
+  - glue the USB charger PCB kit at the back of the T-COMPUTER board and solder the power pins
   - glue the battery at the back of the T-COMPUTER board
-  - DISCONNECT!!!!!!! the teensy micro usb and pull power switch down
+  - Always DISCONNECT the teensy micro usbcable when powering up the system via the battery.
+  - power switch down = battery powered

@@ -12,7 +12,11 @@ The T-COMPUTER is a micro computer platform supported and powered by the MCUME p
   - 8+6 shared I/O pins for GP usage
   - a SD card slot (from the Teensy 4.1)
 - it can be powered over micro USB or can be used as a takeaway system powered by a 1000mA/H lipo.   
-- the T-COMPUTER is a DIY project, you can build it yourself and contribute to it!
+- the T-COMPUTER is a DIY project, you can build it yourself and contribute to it!<br>
+
+<p align="center">
+  <img width="960" height="640" src="/images/tcomputer.jpg">
+</p>
 
 https://youtu.be/jb_A_36Tv24 <br>
 https://youtu.be/ADHyYO1vjXU <br>

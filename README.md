@@ -15,7 +15,7 @@ The T-COMPUTER is a micro computer platform supported and powered by the MCUME p
 - the T-COMPUTER is a DIY project, you can build it yourself and contribute to it!<br>
 
 <p align="center">
-  <img width="960" height="640" src="/images/tcomputer.jpg">
+  <img width="480" height="360" src="/images/tcomputer.jpg">
 </p>
 
 https://youtu.be/jb_A_36Tv24 <br>

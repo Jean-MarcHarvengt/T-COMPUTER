@@ -91,19 +91,19 @@ Follow the step procedure below and test between the steps:
   - power the teensy over micro usb and test
 - step 2: sound out + keyboard
   - solder the PT8211 IC
-  - solder all smd capacitors (respect polariry for the electrolytes)
+  - solder all smd capacitors (respect polariry for the electrolytics)
   - solder all keys of the keyboard + the 2 user keys 
-  - solder the audio connector
+  - solder the audio jack female connector
   - power the teensy over micro usb and test
 - step 3: USB + joystick
   - solder the joystick DB9 connector
   - solder the ST and ILI header pins (female pins)
   - solder the joyext header pins (female pins)
-  - solder the USB connector + USB header pins on the PCB (2 females pins on top of each other)
-  - connect the Teensy USB header to the PCB USB header pins using wires
+  - solder the USB connector + USB header pins on the PCB (2 times 5xfemales pins on top of each other)
+  - connect the Teensy USB header pins to the PCB USB top header pins using wires
   - power the teensy over micro usb and test
 - step 4: TFT display
-  - connect the TFT display
+  - connect the TFT display (e.g. st7789 2 inches)
   - program the teensy with one of the TFT emulator in /bin
   - power the teensy over micro usb and test
 - step 5 (optional):  

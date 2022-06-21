@@ -22,7 +22,7 @@ The T-COMPUTER is a micro computer platform supported and powered by the MCUME p
 June 2022: Initial release<br>
 - After testing the Rev3 PCB from Aisler, I can finally release everything...
 - Repository created with schematics, Gerber files, stl files and binaries
-- How to build the T-COMPUTER video(in 3 parts) below<br> 
+- How to build the T-COMPUTER (video in 3 parts)<br> 
 
 https://youtu.be/jb_A_36Tv24 <br>
 https://youtu.be/ADHyYO1vjXU <br>

@@ -18,6 +18,9 @@ The T-COMPUTER is a micro computer platform supported and powered by the MCUME p
   <img width="640" height="480" src="/images/tcomputer.jpg">
 </p>
 
+T_COMPUTER running Super NES emulation and more...
+https://youtu.be/K1JdkA93pqs <br>
+
 # News
 June 2022: Initial release<br>
 - After testing the Rev3 PCB from Aisler, I can finally release everything...

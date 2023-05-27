@@ -1,0 +1,30 @@
+Compile:
+------- 
+See MCUME Github project, howtocompile.txt in MCUME_teensy41 subdirectory
+
+Controls:
+--------
+In file browser...
+-Use up/down to select a file.
+-Left/Right for paging.
+-TCOMPUTER TAB/OK to start.
+-TCOMPUTER ALT to start in VGA if was configured to display many on LCD.  
+-TCOMPUTER ALT+SHIFT to reset.
+Configure the display (persistent)
+-Press Up while booting to force VGA output at startup (will erase config)
+-Press Left while booting to force ST7789 output at startup (will write config)
+-Press Right while booting to force ILI9341 output at startup (will write config)
+Autorun:
+-You can keep the TCOMPUTER shift key pressed when launching a game (with TAB). 
+ It will AUTORUN the same game at following boot/reset. 
+-Press Down while resetting/booting will erase/disable AUTORUN.
+During emulation...
+-ALT or SHIFT on TCOMPUTER for extra keyboard functions (typically digits + special chars)
+-Keep ALT on for 3 secs for more keyboard functions (typically function keys on 1..10)
+-Cursor control in text require pressing shift in computer emus. 
+Atari/C64 like joystick can plugged to play or you can use up/dow/left/right keys + TAB/ALT/SHIFT
+Some console emus have extra keys on USER1/USER2 keys or q,w,e...p 
+C64 emu also uses ALT+BACK to load file the first time it is pressed.
+ALT sometimes used to swap between mouse/joystick or joystick1/2 port.
+
+You can use USB keyboard/mouse for most computer emus.

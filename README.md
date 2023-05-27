@@ -22,6 +22,14 @@ T_COMPUTER running Super NES emulation and more...
 https://youtu.be/K1JdkA93pqs <br>
 
 # News
+
+Mai 2023: Binaries updated<br>
+- All binaries (except Doom) now support multiple displays (VGA,ST7789,ILI9341)
+- Different binaries is no longer required. 
+- Display is configured by means of a config file on the SD card.
+- Read howto.txt for more details.
+- SNES and MSX emulators have been also added.<br> 
+
 June 2022: Initial release<br>
 - After testing the Rev3 PCB from Aisler, I can finally release everything...
 - Repository created with schematics, Gerber files, stl files and binaries
